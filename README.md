@@ -1,6 +1,15 @@
-# XM Cloud Starter Kit (Next JS)
+# CDP/Personalize Demo Project (Next JS)
 
-## QUICK START
+## About this Solution
+
+This solution is based on the XM Cloud SXA starter kit and it is used by Sitecore Services to demo CDP and Personalize features. 
+
+## QUICK START - FRONT-END XM CLOUD LOCAL DEVELOPMENT ENVIRONMENT
+
+Follow the steps in this [walkthrough](https://doc.sitecore.com/xmc/en/developers/xm-cloud/walkthrough--setting-up-your-full-stack-xm-cloud-local-development-environment.html) to run the Next.js rendering host locally in connected mode.
+
+
+## QUICK START - FULL STACK XM CLOUD LOCAL DEVELOPMENT ENVIRONMENT
 
 1. In an ADMIN terminal:
 
@@ -20,8 +29,6 @@
 
 *** 
 
-## About this Solution
-This solution is designed to help developers learn and get started quickly
-with XMCLoud + SXA.
+
 
 
