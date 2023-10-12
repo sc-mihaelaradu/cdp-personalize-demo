@@ -1,4 +1,4 @@
-# CDP/Personalize Demo Project (Next JS)
+# CDP/Personalize Demo Project
 
 ## About this Solution
 
